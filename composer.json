@@ -1,0 +1,26 @@
+{
+    "name": "Helpers/svg-component-blade",
+    "type": "library",
+    "description": "",
+    "authors": [
+        {
+            "name": "Maxime Fondu",
+            "email": "maximefondu@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Onie\\Wordpress\\": "/src"
+        }
+    },
+    "repositories":[
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.1.0"
+    }
+}
