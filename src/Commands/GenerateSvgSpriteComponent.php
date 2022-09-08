@@ -1,6 +1,6 @@
 <?php
 
-namespace Commands;
+namespace Maximefondu\HelpersSvgComponentBlade\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Collection;
